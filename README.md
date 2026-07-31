@@ -102,6 +102,6 @@ I am a **Results-Driven Full-Stack Web Developer** specializing in building high
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-sam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-for-the-badge&logo=gmail&logoColor=white)](mailto:info.satyam.dev@gmail.com)
 
-<sub>Designed with ❤️ by Satyam</sub>
+<sub>BeingATrue.Dev</sub>
 
 </div>
