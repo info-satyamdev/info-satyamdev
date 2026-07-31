@@ -36,7 +36,6 @@ I am a **Results-Driven Full-Stack Web Developer** specializing in building high
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -74,8 +73,8 @@ I am a **Results-Driven Full-Stack Web Developer** specializing in building high
 - **Tech:** PHP, JavaScript, MySQL, Custom UI
 
 #### 🤖 Automated Branding Pipeline
-> Wrote OS-level Python logic leveraging programmatic web scraping to fetch, organize, and download thousands of high-quality company assets automatically.
-- **Tech:** Python, Web Scraping, File I/O
+> Wrote OS-level Java logic leveraging programmatic web scraping to fetch, organize, and download thousands of high-quality company assets automatically.
+- **Tech:** Java, Web Scraping, File I/O
 
 ---
 
