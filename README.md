@@ -87,8 +87,7 @@ I am a **Results-Driven Full-Stack Web Developer** specializing in building high
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=info-satyamdev&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=info-satyamdev&theme=tokyonight&hide_border=false&v=1)](https://git.io/streak-stats)
 </div>
 
 ---
