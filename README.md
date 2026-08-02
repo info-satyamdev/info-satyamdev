@@ -4,7 +4,7 @@
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │   > satyam.init()                                           │
-│   > Full-Stack Developer & Performance Engineer             │
+│   > Full-Stack Java Developer & Performance Engineer        │
 │   > Location: India 🇮🇳                                      │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
