@@ -87,7 +87,8 @@ I am a **Results-Driven Full-Stack Web Developer** specializing in building high
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=info-satyamdev&theme=tokyonight&hide_border=false&v=1)](https://git.io/streak-stats)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=info-satyamdev&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Satyam's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-languages/?username=info-satyamdev&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
