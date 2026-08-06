@@ -12,7 +12,7 @@
 
 # Hey there, I'm Satyam! 👋
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)]([https://info-satyamdev.github.io/Portfolio/](https://portfolio-xi-orpin-19.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-xi-orpin-19.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-sam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.satyam.dev@gmail.com)
 
